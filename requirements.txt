@@ -1,0 +1,8 @@
+numpy
+opencv-python
+torch>=1.12
+torchvision
+timm
+scikit-learn
+matplotlib
+seaborn
